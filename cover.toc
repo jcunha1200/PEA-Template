@@ -21,6 +21,7 @@
 \contentsline {section}{\numberline {1.5}Scope}{5}{}%
 \contentsline {section}{\numberline {1.6}Work Breakdown Structure (WBS)}{5}{}%
 \contentsline {chapter}{\numberline {2}Literature Review}{6}{}%
+\contentsline {section}{\numberline {2.1}Existing models}{6}{}%
 \contentsline {chapter}{\numberline {3}Methodology}{7}{}%
 \contentsline {chapter}{\numberline {4}Results}{8}{}%
 \contentsline {chapter}{\numberline {5}Discussion}{9}{}%
